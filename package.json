@@ -1,0 +1,32 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "React JS learning",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishshukla01/React-JS-learning.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Ashish Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishshukla01/React-JS-learning/issues"
+  },
+  "homepage": "https://github.com/ashishshukla01/React-JS-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0"
+  }
+}
